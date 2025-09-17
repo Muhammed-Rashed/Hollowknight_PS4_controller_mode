@@ -1,4 +1,4 @@
-# Hollowknight_PS4_controller_mode
+# Hollowknight PS4 controller mod
 This is my attempt at creating a mode to make the PS4 controller more responsive when playing hollow kinght on PC
 
 ## Featuers include
